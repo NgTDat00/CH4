@@ -1,13 +1,5 @@
-<?xml version="1.0" encoding="windows-1258"?>
-<!--
-Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
--->
-
-
-
-<root>
-   <build>
+<?xml version="1.0" encoding="UTF-8"?>
+<build>
     ...
     <plugins>
         ...
@@ -33,5 +25,3 @@ Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this 
         </plugin>
     </plugins>
 </build>
-</root>
-
